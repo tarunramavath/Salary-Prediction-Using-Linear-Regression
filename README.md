@@ -47,6 +47,7 @@ salary-prediction/
 ├── Salary_Data.csv          # Dataset file
 ├── salary_prediction.py     # Python script for salary prediction
 ├── linear_regression_model.pkl # Pickled model after training
+├── salary prediction app.py # streamlit app for prediction
 ├── README.md                # Project documentation
 ```
 
