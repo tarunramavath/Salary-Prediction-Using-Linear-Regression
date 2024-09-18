@@ -51,15 +51,6 @@ salary-prediction/
 ├── README.md                # Project documentation
 ```
 
-## Usage
-
-1. Clone the repository or download the project.
-2. Ensure that the `Salary_Data.csv` file is in the same directory as the script.
-3. Run the Python script to train the model and make predictions:
-
-```bash
-python salary_prediction.py
-```
 
 The script will:
 - Train the linear regression model on 80% of the data.
